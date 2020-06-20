@@ -1,0 +1,24 @@
+
+clic derecho en la carpeta a clonar.
+HIT BAS HERE
+
+==ubicarce en la carpeta a clonar:
+para clonar:
+$ git clone https://github.com/rubensalinasromero/HojaPython.git
+==listar contedido de la carpeta
+$ LS
+HojaPython
+==acceder sub carpeta
+$ cd HojaPython
+===para cargar todo los archivo a git.
+$ git add -A
+==para ver estado que archivos se suviran github
+$ git status
+==hace un commit.
+$ git commit -m "Initial commit"
+==para ver que se suvieron , ver detalle.
+$ git log
+==cargar datos a git hab.
+$ git push
+
+
